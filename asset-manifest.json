@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9490f71b.css",
+    "main.js": "/static/js/main.c4d444f1.js",
+    "static/media/adnan-logo.png": "/static/media/adnan-logo.b5e21284c00da436149a.png",
+    "index.html": "/index.html",
+    "main.9490f71b.css.map": "/static/css/main.9490f71b.css.map",
+    "main.c4d444f1.js.map": "/static/js/main.c4d444f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9490f71b.css",
+    "static/js/main.c4d444f1.js"
+  ]
+}
